@@ -1320,11 +1320,14 @@
     }
   },
   "files": {
+    ".gitattributes": {
+      "checksum": "05bdb783ee6514c8c072e47680af8ff7"
+    },
+    "app.r": {
+      "checksum": "4e4fb758146737008dc1e1b3f5747a14"
+    },
     "function.r": {
       "checksum": "c03ca9a42b7a5cc104a69b00dc7517fa"
-    },
-    "main.r": {
-      "checksum": "4e4fb758146737008dc1e1b3f5747a14"
     }
   },
   "users": null
