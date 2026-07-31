@@ -1,0 +1,10 @@
+database_url.txt
+*.bat
+.Rhistory
+.RData
+.Rproj.user/
+R_usuario/
+Stock_data/
+*.sqlite
+*.sqlite3
+*.db
